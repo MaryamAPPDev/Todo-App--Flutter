@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  A To-Do list App with Provider (Flutter)
 
 A clean and beautiful **Flutter To-Do list App** built using `Provider` for state management. This app includes a polished **authentication flow, dashboard, task management screens**, and modern UI design – all structured with clean architecture.
@@ -79,3 +80,7 @@ dependencies:
 
 
 
+=======
+# Todo-App--Flutter
+Make the Todo App in Flutter with Provider state 
+>>>>>>> 97003d4ebf4d727c6e562f5e92f1fa21b766fabb
